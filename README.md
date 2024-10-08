@@ -1,6 +1,6 @@
 # ICS
 
-Yemekten sonra dinlenme köşesi,
-Otobüs bekleyen yok, ne garip değil mi?
-Belki bir gün bir araç gelir buraya,
-O zaman anlarız, burası neden var acaba.
+Yemekten sonra dinlenme köşesi, <br/>
+Otobüs bekleyen yok, ne garip değil mi? <br/>
+Belki bir gün bir araç gelir buraya,  <br/>
+O zaman anlarız, burası neden var acaba. <br/>
